@@ -1,4 +1,4 @@
-# smarttouristguide
+# smart-tourist-guide
 
 A new Flutter project.
 
